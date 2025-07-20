@@ -2,6 +2,7 @@
 
 A full-stack, responsive To-Do List application built with a modern user interface and persistent data storage using PHP and MySQL. This application allows users to add, mark as complete/incomplete, and delete tasks, with all changes saved to a database.
 
+<img src="images/Capture35.JPG" width="400rem" height="450rem">
 
 
 ## 🚀 Features
